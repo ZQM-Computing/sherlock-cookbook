@@ -35,6 +35,8 @@ OSINT practitioners who check username presence across public platforms.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-check` | A first username check and how to read its output |
